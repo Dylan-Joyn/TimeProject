@@ -1,0 +1,4 @@
+﻿  Time Set Up.cpp
+  Time.cpp
+  Generating Code...
+C:\Users\jd_jo\source\repos\Time Set Up\Time Set Up\Time.cpp(58,1): error C4716: 'Time::operator-': must return a value
